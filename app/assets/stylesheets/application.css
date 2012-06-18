@@ -11,3 +11,8 @@
  *= require_self
  *= require_tree .
 */
+
+.sign_in .well {
+    border: none;
+    background: none;
+}
